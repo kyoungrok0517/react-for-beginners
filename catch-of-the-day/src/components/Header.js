@@ -15,6 +15,8 @@ const Header = (props) => {
             <h3 className="tagline">{props.tagline}</h3>
         </header>
     )
+
+    
 }
 
 Header.propTypes = {
